@@ -88,4 +88,12 @@ to me a very good idea to visualise a user's actions*/
     border-right: 2px solid black ;
   }
 
-  
+  #poke1{
+    padding-left: 300px;
+    padding-bottom: 20px
+  }
+
+  .img1{
+    padding-top: 20px;
+    padding-left: 50px;
+  }
