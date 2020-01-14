@@ -2,7 +2,7 @@
 
 UI accordeon pattern with Pokemons API. 
 
-# Required tecknologies
+# Required technologies
 
 HTML
 CSS
