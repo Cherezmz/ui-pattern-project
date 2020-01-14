@@ -1,6 +1,8 @@
 # ui-pattern-project
 
-##Required tecknologies
+UI accordeon pattern with Pokemons API. 
+
+# Required tecknologies
 
 HTML
 CSS
